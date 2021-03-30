@@ -1,0 +1,35 @@
+body {
+  background-image: url("images/winter.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+ }
+h1 {
+  color: black;
+  font-family: georgia;
+  text-align: center;
+}
+h2{
+  color: black;
+  font-family: georgia;
+  font-size: 23px; 
+}
+h3{
+  color: black;
+  font-family: georgia;
+  font-size: 20px; 
+}
+p {
+  color: black;
+  font-family: georgia;
+  font-size: 20px;
+}
+ul {
+  color: black;
+  font-family: georgia;
+  font-size: 20px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
